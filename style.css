@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding:0;
+}
+.badge {
+font-size: 10px;
+}
+
+body {
+    background-color: rgb(230, 221, 221);
+}
+
+.card {
+    border-radius: 15px;
+}
+

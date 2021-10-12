@@ -1,0 +1,52 @@
+body {
+    background-image: url('Bosphopic/backgroundresto.jpg.crdownload');
+}
+#contactForm {
+
+    padding-top: 5px;
+}
+
+.contactus {
+    text-align: center;
+    font-size: 30px;
+    padding-top: 30px;
+    color: white;
+}
+
+.horaires {
+    color: white;
+}
+.map-responsive{
+
+    overflow:hidden;
+
+    padding-bottom:56.25%;
+
+    position:relative;
+
+    height:0;
+
+}
+
+.map-responsive iframe{
+
+    left:0;
+
+    top:0;
+
+    height:100%;
+
+    width:100%;
+
+    position:absolute;
+
+}
+
+.list-group {
+    background: none;
+    border-radius:15px;
+}
+.list-group-item {
+    border:none;
+    font-weight: bold;
+}
