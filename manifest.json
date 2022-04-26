@@ -20,7 +20,8 @@
       {
         "src": "/logo/logo_small_icon_only_inverted.png",
         "type": "image/png",
-        "sizes": "300x300"
+        "sizes": "300x300",
+        "purpose": "any maskable"
       },
       {
         "src": "/logo/logo_large.png",
