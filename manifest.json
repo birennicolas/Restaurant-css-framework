@@ -1,0 +1,36 @@
+{
+    "name": "Bosphorus Grill",
+    "short_name": "BG",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "white",
+    "theme_color": "white",
+    "orientation": "portrait-primary",
+    "icons": [
+      {
+        "src": "/logo/logo_small.png",
+        "type": "image/png",
+        "sizes": "500x101"
+      },
+      {
+        "src": "/logo/logo_small_icon_only.png",
+        "type": "image/png",
+        "sizes": "300x300"
+      },
+      {
+        "src": "/logo/logo_small_icon_only_inverted.png",
+        "type": "image/png",
+        "sizes": "300x300"
+      },
+      {
+        "src": "/logo/logo_large.png",
+        "type": "image/png",
+        "sizes": "1500x304"
+      },
+      {
+        "src": "/logo/logo520.png",
+        "type": "image/png",
+        "sizes": "520x520"
+      }
+    ]
+  }
